@@ -2,6 +2,11 @@
 
 A **personal project** exploring the design of a financial AI agent that analyzes market data and company fundamentals, then communicates insights using **ElevenLabs voice AI**. Built for explainable analysis, reporting, and automation rather than predictive trading.
 
+ Demo (ElevenLabs):
+ https://elevenlabs.io/app/talk-to?agent_id=agent_3601kf75n7hre6ybzbe9fksf0hhk&branch_id=agtbrch_2901kf75n83hfeyss8ncwxbfp0nm
+
+
+
 ## Overview
 
 AI-Financial-Agent is a personal project focused on building an **analysis-first AI system** that turns structured financial data into clear, human-understandable insights. Instead of making predictions or executing trades, the agent emphasizes reasoning, transparency, and communication.
