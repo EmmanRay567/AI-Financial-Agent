@@ -4,7 +4,7 @@ A financial AI agent that analyzes market data and company fundamentals, then co
 
 ## Overview
 
-AI-Financial-Agent is designed as an **analysis-first AI system** that transforms structured financial data into clear, human-understandable insights. Instead of making predictions or executing trades, the agent focuses on reasoning, transparency, and communication.
+AI-Financial-Agent is designed as an **analysis first AI system** that transforms structured financial data into clear, human-understandable insights. Instead of making predictions or executing trades, the agent focuses on reasoning, transparency, and communication.
 
 The system uses real market and fundamentals data, processes it through an AI agent workflow, and delivers results as both structured outputs and natural voice summaries powered by ElevenLabs.
 
